@@ -9,3 +9,4 @@
     4. run `rosrun turtlebot3_waypoints waypoint_collector.py` and choose points from rviz by using 'Publish Point' plugin on rviz
     5. Exit from the process.
     6. run `rosrun turtlebot3_waypoints waypoint_nav.py` and it will move to the points forming loop
+3. Link to the presentation - https://www.youtube.com/watch?v=mP1sVwK_3HU
